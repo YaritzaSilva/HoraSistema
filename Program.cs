@@ -7,7 +7,7 @@ namespace HoraSistema
         static void Main(string[] args)
         {
             DateTime agora = DateTime.Now;
-            Console.WriteLine($"Neste momento, é, exatamente:{agora}");
+            Console.WriteLine($"Neste momento são, exatamente:{agora}");
         }
     }
 }
